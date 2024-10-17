@@ -8,7 +8,7 @@ Release:	5
 Summary:	Lowrance Serial Interface Protocol module in Perl
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/GPS/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
